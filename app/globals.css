@@ -9,11 +9,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-color: #bd2626;
-    --background-start-color: #000000;
-    --background-end-color: #000000;
-  }
+  
 }
 
 body {
